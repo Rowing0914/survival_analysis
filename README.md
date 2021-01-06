@@ -3,7 +3,8 @@ KM estimator is implemented at the moment
 
 # How to use
 - `pip install -r requirements.txt`
-- `python main.py`
+- `python kaplan_meier.py`
+  <img src="images/result.png" alt="result" style="zoom:67%;" />
 
 # Data: [Echocardiogram data set in UCI](https://www.kaggle.com/loganalive/echocardiogram-uci)
 - Data Set Information
